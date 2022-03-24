@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Paweł Grajnert
-- 👀 I’m interested in programming and composing music for orchestra
-- 🌱 I’m currently learning C# /.NET programing environment and languages with infoShareAcademy
-- 💞️ I’m looking to collaborate on some little projects to improve my abilities in programming
-- 📫 If you want to contact with me - just send me e-mail on: pt.grajnert@gmail.com
+# Paweł Tomasz Grajnert
+
+- 👋 Hi, I’m **Paweł Grajnert**
+- 👀 I’m interested in computer programming and composing orchestral music
+- 🌱 I’m currently learning **C# /.NET** programing environment and language in **infoShareAcademy**
+- 📫 If you want to contact with me just send me an e-mail on: **pt.grajnert@gmail.com**
 
 <!---
 pawel-grajnert/pawel-grajnert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
