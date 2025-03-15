@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **Paweł Grajnert**
 - 👀 I’m interested in computer programming and composing orchestral music
-- 🌱 I’m currently learning **C# /.NET** programing environment and language in **infoShareAcademy**
+- 🌱 I’m currently working with **C# /.NET**
 - 📫 If you want to contact with me just send me an e-mail on: **pt.grajnert@gmail.com**
 
 <!---
